@@ -25,7 +25,8 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-<img src='https://github.com/user-attachments/assets/0cd2f51c-fa58-4827-9adb-5807a978a910' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+![Video Walkthrough](https://github.com/user-attachments/assets/0cd2f51c-fa58-4827-9adb-5807a978a910)
+
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ScreenPal 
